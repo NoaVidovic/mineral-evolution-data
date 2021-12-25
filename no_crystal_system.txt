@@ -1,0 +1,280 @@
+S1 - Anorthite: unknown
+S1 - Forsterite: unknown
+S1 - Ice: 
+S2 - Beidellite: unknown
+S2 - Decagonite: 
+S2 - Ferromerrillite: 
+S2 - Icosahedrite: 
+S2 - Mercury: 
+S2 - Montmorillonite: unknown
+S2 - Nontronite: unknown
+S2 - Saponite: 
+S2 - Spionkopite: 
+S3a - Allanite-(Ce): unknown
+S3a - Almandine: unknown
+S3a - Anthonyite: 
+S3a - Cebollite: 
+S3a - Fluorchegemite: 
+S3a - Heulandite-K: 
+S3a - Imogolite: 
+S3a - Magadiite: unknown
+S3a - Potassic-ferro-sadanagaite: 
+S3a - Reinhardbraunsite: unknown
+S3a - Tetra-auricupride: 
+S3b - Aliettite: 
+S3b - Allophane: 
+S3b - Balangeroite: unknown
+S3b - Chrysotile: unknown
+S3b - Dypingite: 
+S3b - Ferroceladonite: unknown
+S3b - Hectorite: unknown
+S3b - Jordisite: 
+S3b - Kaolinite: unknown
+S3b - Karpinskite: 
+S3b - Muskoxite: 
+S3b - Nakauriite: unknown
+S3b - Rectorite: 
+S3b - Stevensite: 
+S3b - Tosudite: 
+S3b - Valleriite: unknown
+S3b - Volkonskoite: 
+S4a - Anilite: unknown
+S4a - Arcubisite: 
+S4a - Arsenolamprite: unknown
+S4a - Beryllite: 
+S4a - Bismutohauchecornite: 
+S4a - Bostwickite: 
+S4a - Bukovskýite: unknown
+S4a - Cadwaladerite: 
+S4a - Calcjarlite: 
+S4a - Caryopilite: unknown
+S4a - Chapmanite: unknown
+S4a - Chlorocalcite: 
+S4a - Chukotkaite: 
+S4a - Clino-ferro-ferri-holmquistite: 
+S4a - Coldwellite: 
+S4a - Corrensite: 
+S4a - Cuproauride: 
+S4a - Cylindrite: unknown
+S4a - Cymrite: unknown
+S4a - Diadochite: 
+S4a - Dienerite: 
+S4a - Douglasite: 
+S4a - Eugsterite: 
+S4a - Ferrohexahydrite: 
+S4a - Ferro-richterite: 
+S4a - Florencite-(La): 
+S4a - Foshagite: unknown
+S4a - Fowlerite: 
+S4a - Gladkovskyite: 
+S4a - Glucine: 
+S4a - Grayite: 
+S4a - Haiweeite: unknown
+S4a - Halurgite: 
+S4a - Hisingerite: 
+S4a - Hydrobiotite: 
+S4a - Iraqite-(La): 
+S4a - Jahnsite-(MnMnMn): 
+S4a - Jasonsmithite: 
+S4a - Joséite-A: 
+S4a - Joséite-B: 
+S4a - Jusite: 
+S4a - Kalinite: 
+S4a - Kempite: 
+S4a - Kittatinnyite: 
+S4a - Kobeite-(Y): 
+S4a - Koktaite: 
+S4a - Korzhinskite: 
+S4a - Kostovite: 
+S4a - Lennilenapeite: 
+S4a - Loranskite-(Y): 
+S4a - Lunijianlaite: 
+S4a - Mccrillisite: 
+S4a - Meta-alunogen: 
+S4a - Millisite: 
+S4a - Monimolite: 
+S4a - Morozeviczite: 
+S4a - Natroxalate: 
+S4a - Naumannite: unknown
+S4a - Novodneprite: 
+S4a - Pickeringite: unknown
+S4a - Plombièrite: unknown
+S4a - Plumosite: 
+S4a - Polkovicite: 
+S4a - Potassic-mangani-leakeite: 
+S4a - Rathite-IV: 
+S4a - Rayite: 
+S4a - Richellite: 
+S4a - Riversideite: 
+S4a - Rutheniridosmine: 
+S4a - Shabynite: 
+S4a - Stannopalladinite: 
+S4a - Swinefordite: 
+S4a - Tanteuxenite-(Y): 
+S4a - Tatarskite: 
+S4a - Tertschite: 
+S4a - Tetraferriphlogopite: 
+S4a - Tetrahedrite-(Fe): 
+S4a - Tobermorite: unknown
+S4a - Tocornalite: 
+S4a - Torreyite: 
+S4a - Ustarasite: 
+S4a - Varulite: 
+S4a - Wallkilldellite: 
+S4a - Woodwardite: unknown
+S4a - Xenophyllite: 
+S4a - Yushkinite: 
+S4a - Zirklerite: 
+S4b - Belyankinite: 
+S4b - Borocookeite: unknown
+S4b - Carlosturanite: unknown
+S4b - Caryochroite: unknown
+S4b - Escheite: 
+S4b - Fluorcarletonite: unknown
+S4b - Gerasimovskite: 
+S4b - Gregoryite: 
+S4b - Ishikawaite: unknown
+S4b - Karnasurtite-(Ce): 
+S4b - Luanshiweiite: 
+S4b - Maghagendorfite: 
+S4b - Magnesiorowlandite-(Y): 
+S4b - Melanocerite-(Ce): 
+S4b - Montroyalite: 
+S4b - Písekite-(Y): 
+S4b - Potassic-ferro-ferri-sadanagaite: 
+S4b - Potassic-ferro-ferri-taramite: 
+S4b - Redondite: 
+S4b - Rhabdophane-(La): 
+S4b - Rhabdophane-(Nd): 
+S4b - Rowlandite-(Y): 
+S4b - Spadaite: 
+S4b - Ternovite: 
+S4b - Thorosteenstrupine: 
+S4b - Tritomite-(Y): 
+S4b - Uduminelite: 
+S4b - Umbozerite: 
+S4b - Whiteite-(MnFeMg): 
+S4b - Yttrocolumbite-(Y): 
+S4b - Yttrotantalite-(Y): unknown
+S4b - Zircophyllite: 
+S5 - Buserite: 
+S5 - Ferro-glaucophane: 
+S5 - Kolovratite: 
+S5 - Népouite: 
+S5 - Pecoraite: 
+S5 - Suhailite: 
+S5 - Vernadite: 
+S7 - Arzrunite: 
+S7 - Bauranoite: 
+S7 - Birunite: 
+S7 - Blakeite: 
+S7 - Blatonite: 
+S7 - Bolivarite: 
+S7 - Brattforsite: 
+S7 - Calciouranoite: 
+S7 - Calcurmolite: unknown
+S7 - Carbonatecyanotrichite: 
+S7 - Cesàrolite: 
+S7 - Cirrolite: 
+S7 - Cliffordite: 
+S7 - Clinoungemachite: 
+S7 - Corvusite: unknown
+S7 - Cousinite: 
+S7 - Cuprocopiapite: 
+S7 - Cuyaite: 
+S7 - Cyanotrichite: unknown
+S7 - Fahleite: 
+S7 - Ferrimolybdite: unknown
+S7 - Ferrisymplesite: 
+S7 - Fervanite: 
+S7 - Forêtite: 
+S7 - Georgeite: 
+S7 - Ginorite: 
+S7 - Giorgiosite: 
+S7 - Godovikovite: unknown
+S7 - Hellyerite: 
+S7 - Hendersonite: 
+S7 - Hydroglauberite: 
+S7 - Hydroscarbroite: 
+S7 - Ilsemannite: unknown
+S7 - Indigirite: 
+S7 - Isoclasite: 
+S7 - Johanngeorgenstadtite: 
+S7 - Kahlerite: 
+S7 - Karibibite: unknown
+S7 - Kribergite: 
+S7 - Kurumsakite: 
+S7 - Lazaridisite: 
+S7 - Lenoblite: 
+S7 - Loudounite: 
+S7 - Loughlinite: 
+S7 - Matioliite: 
+S7 - Meta-aluminite: 
+S7 - Metacalciouranoite: 
+S7 - Metahaiweeite: 
+S7 - Metasaléeite: 
+S7 - Metauramphite: 
+S7 - Metauranopilite: 
+S7 - Metauranospinite: 
+S7 - Metavandendriesscheite: 
+S7 - Meymacite: 
+S7 - Misenite: 
+S7 - Moluranite: 
+S7 - Montanite: 
+S7 - Nasledovite: 
+S7 - Nickelzippeite: 
+S7 - Nsutite: 
+S7 - Para-alumohydrocalcite: 
+S7 - Paramendozavilite: 
+S7 - Phosphorrösslerite: 
+S7 - Phurcalite: unknown
+S7 - Picropharmacolite: unknown
+S7 - Pintadoite: 
+S7 - Przhevalskite: 
+S7 - Pseudocotunnite: 
+S7 - Pseudomalachite: unknown
+S7 - Rauvite: 
+S7 - Redingtonite: 
+S7 - Renardite: 
+S7 - Rilandite: 
+S7 - Roscoelite: 
+S7 - Rusakovite: 
+S7 - Sampleite: unknown
+S7 - Satpaevite: 
+S7 - Sauconite: 
+S7 - Schlossmacherite: 
+S7 - Segnitite: 
+S7 - Sharpite: 
+S7 - Shubnikovite: 
+S7 - Siderazot: unknown
+S7 - Slavíkite: unknown
+S7 - Smirnovskite: 
+S7 - Somersetite: 
+S7 - Steigerite: 
+S7 - Stetefeldtite: 
+S7 - Straczekite: unknown
+S7 - Tlalocite: 
+S7 - Trébeurdenite: 
+S7 - Trögerite: 
+S7 - Tungstite: unknown
+S7 - Uranophane-α: unknown
+S7 - Uranospinite: 
+S7 - Uvanite: 
+S7 - Vanoxite: 
+S7 - Varlamoffite: 
+S7 - Wardsmithite: 
+S7 - Weilerite: 
+S7 - Widenmannite: unknown
+S7 - Xanthoxenite: unknown
+S7 - Xocomecatlite: 
+S7 - Yecoraite: 
+S7 - Yukonite: 
+S7 - Zincaluminite: 
+S7 - Zincrosasite: 
+S7 - Zincsilite: 
+S7 - Zýkaite: unknown
+S10a - Allantoin: 
+S10a - Joanneumite: 
+S10a - Phylloretine: 
+S10a - Pigotite: 
+S10b - Rosièresite: 

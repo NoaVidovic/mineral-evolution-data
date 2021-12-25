@@ -1,0 +1,26 @@
+"Mineral Name","RRUFF Chemistry (concise)","IMA Chemistry (concise)","Chemistry Elements","IMA Number","RRUFF IDs","Database ID","Country of Type Locality","Year First Published","IMA Status","Structural Groupname","Fleischers Groupname","Status Notes","Crystal Systems","Oldest Known Age (Ma)","Valence Elements","IMA Mineral Symbol"
+"Calcite","CaCO_3_","Ca(CO_3_)","Ca C O","","R040070 R040170 R050048 R050009 R050127 R050128 R050130 R050307 R150020 R150075","1289","unknown","0","Grandfathered|Approved","Calcite","calcite","Mineral known since antiquity under a number of names, but it appears to have first been called calcite in this publication:
+Freiesleben J C (1836) Calcit, Magazin für die Oryktographie von Sachsen 7, 118-121","hexagonal","4700","Ca C O","Cal"
+"Dolomite","CaMg(CO_3_)_2_","CaMg(CO_3_)_2_","Ca Mg C O","","R040030 R050129 R050241 R050272 R050357 R050370 R100118 R100168","1691","Italy","1792","Grandfathered|Approved","Dolomite","dolomite","Saussure H B (1792) Analyse de la dolomie, Observations sur la Physique, sur l’Histoire Naturelle et sur les Arts 40, 161-173","hexagonal","4700","Ca Mg C O","Dol"
+"Greigite","Fe^2+^Fe^3+^_2_S_4_","Fe^2+^Fe^3+^_2_S_4_","Fe S","IMA1963-007","R120103","2153","USA","1963","Approved","Spinel","linnaeite","Skinner B J, Erd R C, Grimaldi F S (1964) Greigite, the thio-spinel of iron; a new mineral, American Mineralogist 49, 543-555","cubic","3640","Fe^2+ Fe^3+ S","Grg"
+"Hematite","Fe^3+^_2_O_3_","Fe_2_O_3_","Fe O","","R040024 R050300 R060190 R070240 R110013","2239","unknown","0","Approved","Corundum","hematite","Mineral name has been known since antiquity and predates any formal descriptive publication, for instance,
+Agricola G (1556) Hematite. in De Re Metallica, translated by Hoover H C and Hoover L H 1950, 111-111","hexagonal","4620","Fe^3+ O","Hem"
+"Hydroxylapatite","Ca_5_(P^5+^O_4_)_3_OH","Ca_5_(PO_4_)_3_OH","Ca P O H","IMA2010 s.p.","R050512 R060180 R100225 R130713","2358","Switzerland","1856","Approved|Renamed","Apatite","apatite","Named hydro-apatite:
+Damour A A (1856) Sur l'hydro-apatite, espèce minérale, Annales des Mines 10, 65-68
+
+Renamed hydroxyapatite:
+Schaller W T (1912) Mineralogical notes, Series 2. Mineralogy of the French phosphorites, U.S. Geological Survey Bulletin 509, 89-100
+
+Name changed from hydroxylapatite to apatite-(CaOH):
+Burke E A J (2008) Tidying up mineral names: an IMA-CNMNC scheme for suffixes, hyphens and diacritical marks, The Mineralogical Record 39, 131-135
+
+Name changed from apatite-(CaOH) back to hydroxylapatite. In addition, apatite-CaOH)-M is renamed to hydroxylapatite-M and is defined as a monoclinic variant of hydroxylapatite and is not considered a distinct species:
+Pasero M, Kampf A R, Ferraris C, Pekov I V, Rakovan J R, White T J (2010) Nomenclature of the apatite supergroup minerals, European Journal of Mineralogy 22, 163-179","hexagonal","2845","Ca P^5+ O H","Hap"
+"Mackinawite","(Fe,Ni)_1-1.07_S","(Fe,Ni)_1+x_S (x = 0-0.07)","Fe Ni S","","R060388 R070302","2921","USA","1964","Approved"," "," ","Evans H T, Milton C, Chao E C T, Adler I, Mead C, Ingram B, Berner R A (1964) Valleriite and the new iron sulfide, mackinawite, U.S. Geological Survey Professional Paper 475-D, 64-69","tetragonal","4620","Fe Ni S","Mkw"
+"Magnesite","MgCO_3_","Mg(CO_3_)","Mg C O","","R040114 R050443 R050676","2961","Italy","1808","Approved","Calcite","calcite","Karsten D L G (1808) Erd-und steinarten, magnesit, in Mineralogische Tabellen 2nd ed., (Berlin) 48-48","hexagonal","3640","Mg C O","Mgs"
+"Magnetite","Fe^2+^Fe^3+^_2_O_4_","Fe^2+^Fe^3+^_2_O_4_","Fe O","","R060191 R060222 R060656 R061111 R080025 R140861","2965","?","1789","Grandfathered|Approved","Spinel","spinel","Hoffmann C A S (1789) Mineralsystem des Herrn Inspektor Werners mit dessen erlaubnis herausgegeben von C A S Hoffmann. 131) Magnetischer=Eisenstein, Bergmannisches Journal 1, 369-398
+
+Haidinger W (1845) Zweite Klasse: Geogenide. XI. Ordnung, Erze. X. Eisennerz. Magnetit., in Handbuch der Bestimmenden Mineralogie, Bei Braumüller and Seidel (Wien) 546-555","cubic","4700","Fe^2+ Fe^3+ O","Mag"
+"Pyrite","Fe^2+^(S_2_)^2-^","FeS_2_","Fe S","","R050070 R050190 R070692 R080030 R100166","3741","unknown","0","Grandfathered|Approved","Pyrite","pyrite","Mineral name has been known since antiquity and predates any formal descriptive publication","cubic|triclinic","4000","Fe^2+ S","Py"
+"Siderite","Fe^2+^CO_3_","Fe(CO_3_)","Fe C O","","R040034 R050262 R050349","4073","unknown","1845","Approved","Calcite","calcite","Haidinger W (1845) Zweite Klasse: Geogenide. II. Ordnung. Baryte I. Parachrosbaryt. Siderit., in Handbuch der Bestimmenden Mineralogie, Bei Braumüller and Seidel (Wien) 499-506","hexagonal","4000","Fe^2+ C O","Sd"
+"Sulphur","S","S","S","","R040135 R050006","4252","unknown","0","Grandfathered|Approved","Sulphur"," ","Mineral name has been known since antiquity and predates any formal descriptive publication.","orthorhombic|monoclinic, hexagonal","4620","S","S"
