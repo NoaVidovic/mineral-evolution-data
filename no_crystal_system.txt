@@ -1,6 +1,6 @@
+S0 - Forsterite: unknown
+S0 - Ice: 
 S1 - Anorthite: unknown
-S1 - Forsterite: unknown
-S1 - Ice: 
 S2 - Beidellite: unknown
 S2 - Decagonite: 
 S2 - Ferromerrillite: 
