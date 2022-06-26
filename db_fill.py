@@ -1,25 +1,27 @@
 import pymongo
-import pandas
+import pandas as pd
 
 
 def rename_func(s):
     return s.replace('(', '').replace(')', '').replace(' ', '_').lower()
 
 
+################################## STAGES ################################
+
 stages = [ '0', '1', '2', '3a', '3b', '4a', '4b', '5', '7', '10a', '10b' ]
 
-rruff_db = pandas.read_csv('rruff_database_2021_12_25.csv',
-                           #index_col='mineral_name',
-                           dtype=str,
-                           na_filter=False
-                          ).transpose()
-
-rruff_db_stages = {
-    s: pandas.read_csv(f'rruff_database_2021_12_25_S{s}.csv',
+rruff_db = pd.read_csv('data/rruff_database_2021_12_25.csv',
                        #index_col='mineral_name',
                        dtype=str,
                        na_filter=False
                       ).transpose()
+
+rruff_db_stages = {
+    s: pd.read_csv(f'data/rruff_database_2021_12_25_S{s}.csv',
+                   #index_col='mineral_name',
+                   dtype=str,
+                   na_filter=False
+                  ).transpose()
     for s in stages
 }
 
@@ -30,6 +32,30 @@ for mineral in rruff_db.keys():
             stages_where_minerals_appeared[mineral].append(stage)
 
 rruff_db.loc['Stages'] = stages_where_minerals_appeared.values()
+
+################################## PGMs #################################
+
+pgm = pd.read_csv('data/2021_hazen_pgm.csv',
+                  index_col='Mineral Name',
+                  dtype=str,
+                 ).transpose().fillna(0).replace('1', 1)
+
+def p(mineral, mode):
+    try:
+        return pgm[mineral][mode]
+    except:
+        return None
+
+minerals = pgm.columns[1:]
+modes = pgm.transpose().columns[:-3]
+
+mineral_pgms = { mineral:
+                [ mode for mode in modes if p(mineral, mode) == 1 ]
+                for mineral in minerals
+               }
+
+
+# putting data in db appropriate form
 
 rruff_db.rename(rename_func, inplace=True)
 print(rruff_db)
@@ -45,6 +71,10 @@ for record in d:
     record['valence_elements'] = record['valence_elements'].split(' ')
     record['database_id'] = int(record['database_id'])
     record['year_first_published'] = int(record['year_first_published'])
+    try:
+        record['pgm'] = mineral_pgms[record['mineral_name']]
+    except:
+        pass
 
 print('records obtained')
 
@@ -180,6 +210,22 @@ val = {
                         'bsonType': 'string',
                         'description': 'stage',
                         'enum': [ '0', '1', '2', '3a', '3b', '4a', '4b', '5', '6', '7', '8', '9', '10a', '10b' ]
+                    }
+                },
+                'pgm': {
+                    'bsonType': 'array',
+                    'description': 'paragenetic modes',
+                    'items': {
+                        'bsonType': 'string',
+                        'description': 'paragenetic mode',
+                        'enum': [ 'p1', 'p2', 'p3', 'p4', 'p5', 'p6', 'p7', 'p8', 'p9', 'p10', 'p11',
+                                  'p12', 'p13', 'p14', 'p15', 'p16', 'p17', 'p18', 'p19', 'p20', 'p21',
+                                  'p22', 'p23', 'p24', 'p25', 'p26', 'p27', 'p28', 'p29', 'p30', 'p31',
+                                  'p32', 'p33', 'p34', 'p35', 'p36', 'p37', 'p38', 'p39', 'p40', 'p41',
+                                  'p42', 'p43', 'p44', 'p45a', 'p45b', 'p46', 'p47a', 'p47b', 'p47c',
+                                  'p47d', 'p47e', 'p47f', 'p47g', 'p47h', 'p47i', 'p48', 'p49', 'p50',
+                                  'p51', 'p52', 'p53', 'p54', 'p55', 'p56', 'p57', 'Lunar'
+                                ]
                     }
                 }
             }
